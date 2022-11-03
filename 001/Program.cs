@@ -11,6 +11,7 @@ void PrintArray(int[,] arr)
 Console.WriteLine();
 }  
 }
+
 void FillArray(int[,] arr)
 {
  for(int i = 0; i < arr.GetLength(0); i++)
