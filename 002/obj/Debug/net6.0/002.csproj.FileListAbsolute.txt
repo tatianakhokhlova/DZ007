@@ -1,0 +1,15 @@
+C:\Users\HP\DZ007\002\bin\Debug\net6.0\002.exe
+C:\Users\HP\DZ007\002\bin\Debug\net6.0\002.deps.json
+C:\Users\HP\DZ007\002\bin\Debug\net6.0\002.runtimeconfig.json
+C:\Users\HP\DZ007\002\bin\Debug\net6.0\002.dll
+C:\Users\HP\DZ007\002\bin\Debug\net6.0\002.pdb
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\002.csproj.AssemblyReference.cache
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\002.AssemblyInfoInputs.cache
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\002.AssemblyInfo.cs
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\002.csproj.CoreCompileInputs.cache
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\002.dll
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\refint\002.dll
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\002.pdb
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\002.genruntimeconfig.cache
+C:\Users\HP\DZ007\002\obj\Debug\net6.0\ref\002.dll
