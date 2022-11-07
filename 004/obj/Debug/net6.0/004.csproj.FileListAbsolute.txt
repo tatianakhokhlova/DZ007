@@ -1,0 +1,5 @@
+C:\Users\HP\DZ007\004\obj\Debug\net6.0\004.csproj.AssemblyReference.cache
+C:\Users\HP\DZ007\004\obj\Debug\net6.0\004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DZ007\004\obj\Debug\net6.0\004.AssemblyInfoInputs.cache
+C:\Users\HP\DZ007\004\obj\Debug\net6.0\004.AssemblyInfo.cs
+C:\Users\HP\DZ007\004\obj\Debug\net6.0\004.csproj.CoreCompileInputs.cache
